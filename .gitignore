@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled Object files
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.tlog
+*.exp
+*.lib
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
